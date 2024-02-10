@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PS3="Select a choice:"  # use this prompt instead of the default '#?'
+PS3="Select your choice:"  # use this prompt instead of the default '#?'
 
 check_if_operation_successful(){
 
